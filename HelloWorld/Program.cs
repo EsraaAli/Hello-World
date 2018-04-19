@@ -14,7 +14,6 @@ namespace HelloWorld
             Console.WriteLine("Hello FCI");
             Console.WriteLine("Copy 1");
             Console.WriteLine("Copy 2");
-            Console.WriteLine("Copy 3");
             
 
             Console.ReadLine();
